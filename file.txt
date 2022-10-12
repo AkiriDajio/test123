@@ -1,0 +1,6 @@
+a:3:{s:3:"key";s:3:"qwe";s:5:"value";s:3:"123";s:4:"save";s:18:"Отправить";}
+a:3:{s:3:"key";s:3:"qwe";s:5:"value";s:3:"123";s:4:"save";s:18:"Отправить";}
+a:3:{s:3:"key";s:3:"qwe";s:5:"value";s:3:"qwe";s:4:"save";s:18:"Отправить";}
+a:3:{s:3:"key";s:3:"qwe";s:5:"value";s:3:"qwe";s:4:"save";s:18:"Отправить";}
+a:3:{s:3:"key";s:6:"qwe111";s:5:"value";s:5:"trete";s:4:"save";s:18:"Отправить";}
+a:3:{s:3:"key";s:4:"qwe3";s:5:"value";s:7:"qwe3312";s:4:"save";s:18:"Отправить";}
